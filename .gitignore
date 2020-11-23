@@ -1,2 +1,5 @@
-*pyc
-.Idea
+*.pyc
+.idea
+bookmarks/bookmarks.db
+migrations
+
